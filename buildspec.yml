@@ -16,4 +16,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/myapp-SNAPSHOT-1.0.jar
+    - target/my-app-1.0-SNAPSHOT.jar
